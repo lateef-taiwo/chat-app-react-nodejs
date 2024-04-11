@@ -1,5 +1,5 @@
 
-![opencart_image](./"Screenshot 2024-04-11 173755.png")
+![opencart_image](./opencart-image.png")
 
 # chat-app-react...
 
