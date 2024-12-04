@@ -96,7 +96,10 @@ docker-compose up -d
 ```
 
 to see the state of the container, run the command
- ```docker logs cointainer-name```
+ ```
+ docker logs cointainer-name
+
+```
 
 to see built images and running containers, run 
 
